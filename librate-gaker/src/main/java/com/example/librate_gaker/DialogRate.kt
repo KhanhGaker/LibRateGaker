@@ -140,7 +140,6 @@ class DialogRate :
                                 )
                             )
                         }
-                        shared.edit().putBoolean("RATE_FIRST", true).apply()
                     }
                 }
             }
